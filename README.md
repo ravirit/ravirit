@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0E4B41,100:146356&height=190&section=header&text=Ravikiran%20Bethala&fontSize=40&fontColor=F0F1EB&fontAlignY=38&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:146356,100:0E4B41&height=190&section=header&text=Ravikiran%20Bethala&fontSize=40&fontColor=F0F1EB&fontAlignY=38&animation=fadeIn" alt="header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0E4B41,100:146356&height=190&section=header&text=Ravikiran%20&fontSize=40&fontColor=F0F1EB&fontAlignY=38&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:146356,100:0E4B41&height=190&section=header&text=Ravikiran%20&fontSize=40&fontColor=F0F1EB&fontAlignY=38&animation=fadeIn" alt="header" />
 </picture>
 
 <p align="center">
